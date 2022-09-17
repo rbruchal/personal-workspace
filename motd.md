@@ -34,10 +34,7 @@
 - Check for PRs to review
 - Review Kirby Sprint board
 
-
 ## General
 - iDevices Procedures Cheatsheet
 - PTO/Sick Days 2020
 - TODO: make wiki pages for these
-
-
