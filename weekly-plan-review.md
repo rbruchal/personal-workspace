@@ -7,6 +7,7 @@ Write journal in Day One
 Review calendar for upcoming events
 
 Review in Trello:
+
 - Goals
 - Household
 - Dizzy
