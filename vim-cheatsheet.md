@@ -7,5 +7,7 @@
 - :tabclose = close current tab
 - :tabonly = close all tabs except current one
 
+- :wa = write all changed buffers
+
 - o = insert line after cursor (and go into insert mode)
 - O = insert line before cursor (and go into insert mode)

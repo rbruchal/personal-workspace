@@ -2,6 +2,8 @@
 
 Reverse Chronological order log of what I've been up to
 
+## 12/8/23
+ - ??
 
 ## 12/7/23
 - Figured out how to use VO in terminal
